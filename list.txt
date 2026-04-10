@@ -1,4 +1,3 @@
-github官网|https://github.com/
 Play Integrity Fix|https://github.com/KOWX712/PlayIntegrityFix/
 TrickyStore|https://github.com/5ec1cff/TrickyStore/
 TEESimulator-RS|https://github.com/Enginex0/TEESimulator-RS/
