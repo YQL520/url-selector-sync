@@ -1,13 +1,13 @@
-github官网|github.com
-Play Integrity Fix|https://github.com/KOWX712/PlayIntegrityFix
+github官网|https://github.com/
+Play Integrity Fix|https://github.com/KOWX712/PlayIntegrityFix/
 TrickyStore|https://github.com/5ec1cff/TrickyStore/
-TEESimulator-RS|https://github.com/Enginex0/TEESimulator-RS
-TS插件|https://github.com/KOWX712/Tricky-Addon-Update-Target-List
+TEESimulator-RS|https://github.com/Enginex0/TEESimulator-RS/
+TS插件|https://github.com/KOWX712/Tricky-Addon-Update-Target-List/
 Zygisk Next|https://github.com/Dr-TSNG/ZygiskNext/
-指纹支付|https://github.com/eritpchy/FingerprintPay
+指纹支付|https://github.com/eritpchy/FingerprintPay/
 LuckyTool|https://modules.lsposed.org/module/com.luckyzyx.luckytool/
 月虹一键隐藏模块|https://yhyun.asia/
-LianTool降级工具|https://yun.lian86.top
+LianTool降级工具|https://yun.lian86.top/
 LianTool降级工具(备用)|https://lian.ovo.xcxll.cn/
 ROM下载站|https://op-rom.lian86.top/
-ReSukiSU|https://github.com/ReSukiSU/ReSukiSU
+ReSukiSU|https://github.com/ReSukiSU/ReSukiSU/
